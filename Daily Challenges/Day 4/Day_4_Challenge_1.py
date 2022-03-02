@@ -1,17 +1,19 @@
 import random
 
+
 def rand_float(min, max):
     i = random.randint(min, max)
     f = random.random()
     result = float(i + f)
     print(f"{result:.2f}")
 
+
 #CHALLENGE 1 HEADS OR TAILS
 def heads_or_tails():
     print(random.choice(["Heads", "Tails"]))
  
 
- #CHALLENGE 2 WHO IS PAYING?   
+#CHALLENGE 2 WHO IS PAYING?
 def who_is_paying():
     # 🚨 Don't change the code below 👇
     test_seed = int(input("Create a seed number: "))
