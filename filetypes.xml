@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Outside Daily Projects" type="AUTO_DETECTED" />
       <mapping pattern="word_list_txt" type="AUTO_DETECTED" />
+      <mapping pattern="Outside Daily Projects" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
