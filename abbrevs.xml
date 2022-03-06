@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ConsoleView.ClearAll">
+        <abbreviation name="cls" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
