@@ -64,12 +64,36 @@
 # else:
 #     print("Not leap year.")
 
-for number in range(1, 101):
-    if number % 3 == 0 and number % 5 == 0:
-        print("FizzBuzz")
-    elif number % 3 == 0:
-        print("Fizz")
-    elif number % 5 == 0:
-        print("Buzz")
-    else:
-        print([number])
+# for number in range(1, 101):
+#     if number % 3 == 0 and number % 5 == 0:
+#         print("FizzBuzz")
+#     elif number % 3 == 0:
+#         print("Fizz")
+#     elif number % 5 == 0:
+#         print("Buzz")
+#     else:
+#         print([number])
+
+def first_word(text: str) -> str:
+    """
+    returns the first word in a given text.
+    """
+    # your code here
+    first_word = ""
+    has_first_letter = False
+    while not has_first_letter:
+        for i in text:
+            if i.isalpha():
+                has_full_word = False
+                while not has_full_word:
+                    has_first_letter = True
+                    starting_index = text.index(i)
+                    for text_index in range(starting_index, len(text)):
+                        if not text[text_index].isalpha():
+                            has_full_word = True
+                        else:
+                            first_word += text[text_index]
+    return first_word
+
+
+print(first_word(" hello "))
