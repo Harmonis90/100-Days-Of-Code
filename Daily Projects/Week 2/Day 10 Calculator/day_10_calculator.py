@@ -1,6 +1,5 @@
 import art_logo
-import colorama
-from colorama import Fore, Back, Style
+from colorama import Fore
 
 
 def add(a, b):

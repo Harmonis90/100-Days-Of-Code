@@ -32,7 +32,7 @@ difficulty = get_difficulty()
 
 def get_word(d=difficulty):
 
-    word_file = open(r"C:\Users\thede\PycharmProjects\100-Days-Of-Code\Daily Projects\Day 7 Hangman\word_list_txt", "r")
+    word_file = open(r"/Daily Projects/Week 2/Day 7 Hangman/word_list_txt", "r")
     word_list = list(word_file.readlines())
     while True:
         max_index_range = len(word_list) - 1
