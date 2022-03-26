@@ -4,7 +4,7 @@
     <property name="created">2022-03-05T03:40:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-15T01:54:14</property>
+    <property name="modified">2022-03-25T22:20:22</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -673,8 +673,9 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="655129" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -748,7 +749,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ffd866" />
+        <option name="FOREGROUND" value="fdcc55" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -3793,7 +3794,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffd866" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
