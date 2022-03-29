@@ -1,13 +1,13 @@
-<scheme name="_@user_Atom One Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Codely Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-03-05T03:40:47</property>
+    <property name="created">2022-03-28T23:49:46</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-29T00:03:37</property>
-    <property name="originalScheme">Atom One Light</property>
+    <property name="modified">2022-03-29T00:03:38</property>
+    <property name="originalScheme">Codely Light</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="fcfaed" />
+    <option name="CARET_ROW_COLOR" value="f3f3f3" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -17,9 +17,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
@@ -33,11 +30,12 @@
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="LINE_NUMBERS_COLOR" value="adadad" />
-    <option name="SELECTION_BACKGROUND" value="a6d2ff" />
+    <option name="INFORMATION_HINT" value="f3f3f3" />
+    <option name="LINE_NUMBERS_COLOR" value="a2a2a4" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="42444d" />
+    <option name="SELECTION_BACKGROUND" value="dbdbdb" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="SEPARATOR_BELOW_COLOR" value="eaeaea" />
-    <option name="TEARLINE_COLOR" value="eaeaea" />
+    <option name="TEARLINE_COLOR" value="f3f3f3" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
@@ -127,7 +125,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="33b3" />
+        <option name="FOREGROUND" value="e2424b" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -170,6 +168,9 @@
       </value>
     </option>
     <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -286,8 +287,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="edebfc" />
-        <option name="ERROR_STRIPE_COLOR" value="d0a1ff" />
+        <option name="EFFECT_COLOR" value="dbdbdb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -311,11 +312,6 @@
         <option name="FOREGROUND" value="264eff" />
       </value>
     </option>
-    <option name="LIVE_TEMPLATE_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="e63900" />
-      </value>
-    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -323,12 +319,13 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="93d9d9" />
+        <option name="BACKGROUND" value="dbdbdb" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
       <value>
-        <option name="BACKGROUND" value="c9ecec" />
+        <option name="EFFECT_COLOR" value="dbdbdb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PROPERTIES.KEY">
@@ -356,7 +353,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="80808" />
+        <option name="FOREGROUND" value="42444d" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
@@ -387,10 +384,7 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="fce8f4" />
-        <option name="ERROR_STRIPE_COLOR" value="f0a8d2" />
-      </value>
+      <value />
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
