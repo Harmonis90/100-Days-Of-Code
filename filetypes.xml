@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="whl" type="ARCHIVE" />
       <mapping pattern="word_list_txt" type="AUTO_DETECTED" />
+      <mapping pattern="happy_birthday_01" type="AUTO_DETECTED" />
       <mapping pattern="Outside Daily Projects" type="AUTO_DETECTED" />
       <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
