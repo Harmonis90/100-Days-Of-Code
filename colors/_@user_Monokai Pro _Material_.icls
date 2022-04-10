@@ -4,7 +4,7 @@
     <property name="created">2022-03-05T03:40:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-04-05T19:47:44</property>
+    <property name="modified">2022-04-09T20:31:04</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -690,7 +690,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FOREGROUND" value="59aaff" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
