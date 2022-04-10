@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="whl" type="ARCHIVE" />
       <mapping pattern="Outside Daily Projects" type="AUTO_DETECTED" />
+      <mapping pattern="programming languages" type="AUTO_DETECTED" />
       <mapping pattern="word_list_txt" type="AUTO_DETECTED" />
       <mapping pattern="happy_birthday_01" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
